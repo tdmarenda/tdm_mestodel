@@ -156,7 +156,7 @@ a:hover { opacity:.9 }
 .feedback > .wrapper .contacts .tel { float:left; }
 .feedback > .wrapper .contacts .tel .info { float:left; font-size:14px; color:#fff }
 .feedback > .wrapper .contacts .tel .contact { float:left; clear:left; font-size:18px; color:#FE8369; text-decoration:none; }
-.feedback > .wrapper .contacts .gap { float:left; margin:0 20px; font-size:12px; color:rgba(255,255,255,.5); }
+.feedback > .wrapper .contacts .gap { float:left; margin:0 18px; font-size:12px; color:rgba(255,255,255,.5); }
 .feedback > .wrapper .contacts .email { float:left; }
 .feedback > .wrapper .contacts .email .info { float:left; font-size:14px; color:#fff }
 .feedback > .wrapper .contacts .email .contact { float:left; clear:left; font-size:18px; color:#FE8369; text-decoration:none; }
