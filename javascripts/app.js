@@ -80,6 +80,7 @@ function gallery() {
     $('.gallery').fadeOut(300);
   })
 }
+$('.ya-send').click(function(){window.open($(this).data('link'));yaCounter39513195.reachGoal('ya-click');return true;});
 
 $(function() {
   feedback();
